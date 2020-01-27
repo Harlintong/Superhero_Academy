@@ -8,16 +8,16 @@
     </TypeIdentifier>
   </Class>
   <Class Name="Superhero_Academy.Human">
-    <Position X="2.5" Y="0.5" Width="1.5" />
+    <Position X="2" Y="0.5" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <HashCode>AAAAAAAAAIAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Human.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="Superhero_Academy.Mage">
     <Position X="7.5" Y="3" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAEAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAABA=</HashCode>
+      <HashCode>AABAEAAAAAAAAAAAAAAAAAAAAAAAAIAABAAAAAAAABA=</HashCode>
       <FileName>Mage.cs</FileName>
     </TypeIdentifier>
   </Class>
@@ -29,7 +29,7 @@
     </TypeIdentifier>
   </Class>
   <Class Name="Superhero_Academy.Shapeshifter">
-    <Position X="2.5" Y="1.75" Width="1.5" />
+    <Position X="2.25" Y="3" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAA=</HashCode>
       <FileName>Shapeshifter.cs</FileName>
