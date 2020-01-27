@@ -6,6 +6,7 @@ namespace Superhero_Academy
 {
     class Shapeshifter : Superhero
     {
+        //shapeshifter behöver stamina för att ändra form
         int formChange;
 
         void Shapeshift()

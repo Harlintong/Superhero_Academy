@@ -6,6 +6,7 @@ namespace Superhero_Academy
 {
     class Mutant : Superhero
     {
+        //Mutanter blir starkare men långsammare
         private int MutantStrength;
         private int MutantSpeed;
 
@@ -14,7 +15,6 @@ namespace Superhero_Academy
             MutantStrength = Strength * 5;
 
             MutantSpeed = Speed / 2;
-            
         }
     }
 }

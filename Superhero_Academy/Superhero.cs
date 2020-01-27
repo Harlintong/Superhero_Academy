@@ -6,6 +6,7 @@ namespace Superhero_Academy
 {
     class Superhero
     {
+        //Varje superhero kommer namn, styrka, kraft, intelligens, stamina, ochh velocitet
         public string Name;
 
         public int Strength;
